@@ -21,11 +21,6 @@ html{
     margin: 0 25% 0 25%;
     border: 5px solid green;
 }
-.title{
-    list-style: none;
-    padding: 0;
-    margin: 15px;
-}
 
 ul>li {
 
