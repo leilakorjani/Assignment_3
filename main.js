@@ -67,4 +67,3 @@ function PrintDepts2(depts2){
 }
 PrintDepts2(org2_depts);
 
-
